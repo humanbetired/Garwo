@@ -1,4 +1,4 @@
-# Garwo — AI Personal Assistant
+# GARWO
 
 Garwo is an personal assistant built with a modern, production-grade architecture. It combines a local large language model, retrieval-augmented generation, tool calling, and the Model Context Protocol (MCP) to deliver a capable and extensible assistant for daily life management.
 
