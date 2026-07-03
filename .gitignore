@@ -40,3 +40,6 @@ desktop.ini
 # Logs
 *.log
 uvicorn.log
+
+mcp-servers/gcalendar/credentials.json 
+mcp-servers/gcalendar/token.json 
