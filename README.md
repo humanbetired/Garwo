@@ -240,7 +240,7 @@ Garwo uses the Model Context Protocol for all external tool integrations. Each M
 
 ## Screenshots
 
-### Chat Interface — Light Mode
+### Chat Interface
 ![Chat Interface](docs/looklike.png)
 
 
